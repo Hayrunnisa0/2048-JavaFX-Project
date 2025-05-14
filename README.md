@@ -4,7 +4,7 @@ This is a desktop version of the classic 2048 puzzle game, developed using JavaF
 
  GitHub Repository
 
-https://github.com/kullanici-adin/2048-JavaFX-Project
+https://github.com/Hayrunnisa0/2048-JavaFX-Project
 
  Project Description
 
