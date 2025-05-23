@@ -1,6 +1,6 @@
  2048 JavaFX Game
 
-This is a desktop version of the classic 2048 puzzle game, developed using JavaFX.
+The objective of the game is to combine tiles with the same numbers to reach the 2048 tile. 
 
  GitHub Repository
 
