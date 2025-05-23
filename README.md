@@ -18,9 +18,10 @@ https://github.com/Hayrunnisa0/2048-JavaFX-Project
 - Score tracking
 - "Game Over" detection
 - "Restart Game" button
-- Recording the highest score
+- User’s highest score is stored and displayed.
 - Custom colors for different tile values (as in the original 2048)
 - Responsive and clean UI design
+-  A login screen prompts for username. Score is tracked per user.
   
 
  How to Run-->Requirements:
